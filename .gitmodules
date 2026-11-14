@@ -1,0 +1,9 @@
+[submodule "external/cJSON"]
+	path = external/cJSON
+	url = https://github.com/davegamble/cjson
+[submodule "external/log.c"]
+	path = external/log.c
+	url = https://github.com/rxi/log.c
+[submodule "external/curl"]
+	path = external/curl
+	url = https://github.com/curl/curl

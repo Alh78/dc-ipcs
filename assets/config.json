@@ -1,0 +1,1 @@
+{"ipc_addresses": ["192.168.1.4", "192.168.1.5"], "credentials": {"name": "ipc_scheduler", "password": "12345678"}, "lattitude": 00.000000, "longtitude": 00.000000, "reattempt_delay": 30, "update_interval": 604800, "ls_data_file_path": "last_setting.dat", "cert_path": "office-ipcs.pem"}
